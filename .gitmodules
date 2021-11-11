@@ -1,0 +1,9 @@
+[submodule "task-#09/PBlog/themes/goa"]
+	path = "task-#09/PBlog/themes/goa"
+	url = https://github.com/kaapiandcode/hugo-goa
+[submodule "task-#09/PBlog/hugo-winston-theme"]
+	path = "task-#09/PBlog/hugo-winston-theme"
+	url = https://github.com/zerostaticthemes/hugo-winston-theme
+[submodule "task-#09/PBlog/themes/aether"]
+	path = "task-#09/PBlog/themes/aether"
+	url = https://github.com/josephhutch/aether
